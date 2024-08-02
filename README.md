@@ -41,6 +41,12 @@ My tactic while taking the exam was to at least visit each question once. Then I
 <h2>Contents</h2>
 
 * [Essential commands 20%](https://github.com/franchev/LFCS-Exercises/blob/main/essential-commands.md) 
+    * Basic Git Operations
+    * Create, configure, and troubleshoot services
+    * Monitor and troubleshoot system performance and services
+    * Determine application and service specific constraints
+    * Troubleshoot diskspace issues
+    * Work with SSL certificates
 * [Operations Deployment 25%](https://github.com/franchev/LFCS-Exercises/blob/main/operations-deployment.md) 
 * [Users and Groups 10%](https://github.com/franchev/LFCS-Exercises/blob/main/users-and-groups.md)
 * [Networking 25%](https://github.com/franchev/LFCS-Exercises/blob/main/networking.md)
