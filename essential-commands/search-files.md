@@ -1,4 +1,4 @@
-## Using the find command to search for files and directories
+# Using the find command to search for files and directories
 
 
 ### Find files and directories that were modified a minute ago in the /var directory

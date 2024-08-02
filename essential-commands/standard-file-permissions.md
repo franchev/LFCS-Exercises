@@ -1,4 +1,4 @@
-## Standard File Permissions
+# Standard File Permissions
 
 run the ls -l command to view permission about a file or directory. This link: https://phoenixnap.com/kb/linux-file-permissions provides a good explanation on linux permission. 
 
