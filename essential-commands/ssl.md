@@ -17,3 +17,43 @@ Here are a few terms that you will come across that are important to understand.
 * Certificate Authority (CA): is a trusted entity that issues SSL certificates (i.e Digicert) 
 * Self-signed certs: This is not signed by a publicly trusted CA but instead by the developer or company responsible for the website. These are unsave for public applications and websites.
 
+
+
+### create a 4096-bit RSA private key and CSR using the openssl command
+
+
+<details><summary>Answer</summary>
+
+```bash
+openssl req -newkey rsa:4096 -keyout private.key -out certifate.csr        
+```
+
+</details>
+
+
+### Generate a self-signed certificate that will expire in a year Name it test-cert.crt. Set the common name to: test.example.com
+
+
+<details><summary>Answer</summary>
+
+```bash
+openssl req -x509 -noenc -days 365 -keyout private.key -out test-cert.crt     
+enter test.example.com for the common name
+```
+
+</details>
+
+
+### view the content of a crt file
+
+
+<details><summary>Answer</summary>
+
+```bash
+openssl x509 -text -in file.crt
+```
+
+</details>
+
+
+
