@@ -41,13 +41,18 @@ My tactic while taking the exam was to at least visit each question once. Then I
 <h2>Contents</h2>
 
 * [Essential commands 20%](https://github.com/franchev/LFCS-Exercises/blob/main/essential-commands) 
-    * Basic Git Operations
+    * [Basic Git Operations](https://github.com/franchev/LFCS-Exercises/blob/main/essential-commands/git.md)
     * Create, configure, and troubleshoot services
     * Monitor and troubleshoot system performance and services
     * Determine application and service specific constraints
     * Troubleshoot diskspace issues
-    * Work with SSL certificates
+    * [Work with SSL certificates](https://github.com/franchev/LFCS-Exercises/blob/main/essential-commands/ssl.md)
 * [Operations Deployment 25%](https://github.com/franchev/LFCS-Exercises/blob/main/operations-deployment) 
 * [Users and Groups 10%](https://github.com/franchev/LFCS-Exercises/blob/main/users-and-groups)
+    * [Create and manage local user and group accounts](https://github.com/franchev/LFCS-Exercises/blob/main/users-and-groups/manage-local-users-and-group-accounts.md)
+    * [Manage personal and system-wide environment profiles](https://github.com/franchev/LFCS-Exercises/blob/main/users-and-groups/manage-profiles.md)
+    * [Configure user resource limits](https://github.com/franchev/LFCS-Exercises/blob/main/users-and-groups/configure-user-resource-limits.md) 
+    * [Configure and manage ACLs](https://github.com/franchev/LFCS-Exercises/blob/main/users-and-groups/configure-manage-acls.md) 
+    * [Configure the system to use LDAP user and group accounts](https://github.com/franchev/LFCS-Exercises/blob/main/users-and-groups/configure-ldap.md)
 * [Networking 25%](https://github.com/franchev/LFCS-Exercises/blob/main/networking)
 * [Storage 20%](https://github.com/franchev/LFCS-Exercises/blob/main/storage)
